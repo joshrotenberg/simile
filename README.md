@@ -1,5 +1,10 @@
 # Simile
 
+[![CI](https://github.com/joshrotenberg/simile/actions/workflows/ci.yml/badge.svg)](https://github.com/joshrotenberg/simile/actions/workflows/ci.yml)
+[![Hex.pm](https://img.shields.io/hexpm/v/simile.svg)](https://hex.pm/packages/simile)
+[![Hex Docs](https://img.shields.io/badge/hex-docs-blue.svg)](https://hexdocs.pm/simile)
+[![License](https://img.shields.io/hexpm/l/simile.svg)](https://github.com/joshrotenberg/simile/blob/main/LICENSE)
+
 String similarity and distance algorithms for Elixir.
 
 ## Algorithms
