@@ -1,7 +1,7 @@
 defmodule Simile.MixProject do
   use Mix.Project
 
-  @version "0.1.0"
+  @version "0.1.1"
   @source_url "https://github.com/joshrotenberg/simile"
 
   def project do
